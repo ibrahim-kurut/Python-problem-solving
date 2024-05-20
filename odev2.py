@@ -2,7 +2,7 @@
 # Aksi takdirde, "Zaten var" deyin.
 
 basket = ['apple', 'peach', 'blackberry']
-fruit = 'apple45'
+fruit = 'apple'
 
 #! ============ cevap 1 ============
 for i in basket:
